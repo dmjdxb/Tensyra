@@ -8,6 +8,11 @@ import streamlit as st
 import urllib.parse
 from dexcom_api import get_dexcom_auth_link, exchange_dexcom_code_for_token, get_glucose_data
 from auth import init_firebase, sign_up, sign_in
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Load .env file
+
 
 
 #======Log in ==========
