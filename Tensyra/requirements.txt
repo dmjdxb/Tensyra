@@ -1,0 +1,11 @@
+streamlit
+firebase-admin
+python-dotenv
+requests
+openai
+pandas
+plotly
+google-auth
+oauthlib
+fastapi
+uvicorn

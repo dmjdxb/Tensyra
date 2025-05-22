@@ -1,0 +1,14 @@
+OPENAI_API_KEY=sk-xxxxxxxx
+WHOOP_CLIENT_ID=your_whoop_client_id
+WHOOP_CLIENT_SECRET=your_whoop_secret
+DEXCOM_CLIENT_ID=your_dexcom_client_id
+DEXCOM_CLIENT_SECRET=your_dexcom_secret
+
+
+
+WHOOP_REDIRECT_URI=https://yourapp.streamlit.app/?whoop_code_returned
+
+
+DEXCOM_CLIENT_ID=your_dexcom_client_id
+DEXCOM_CLIENT_SECRET=your_dexcom_client_secret
+DEXCOM_REDIRECT_URI=https://yourapp.streamlit.app/?dexcom_code_returned
